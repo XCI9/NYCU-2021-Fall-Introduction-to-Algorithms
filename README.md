@@ -1,5 +1,5 @@
 # NYCU-2021-Fall-Introduction-to-Algorithms
-110-1 演算法概論 吳育松<br/>
+110-1 演算法概論 吳育松教授<br/>
 [課綱](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=110&Sem=1&CrsNo=1187&lang=zh-tw)
 
 - 評分:
